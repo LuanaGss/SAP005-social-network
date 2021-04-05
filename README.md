@@ -9,7 +9,6 @@ Para acessar a plataforma, [clique aqui.](https://rede-social-205ff.web.app)
 senha: 123456**
 ---
 
----
 ###  Introdução 
 
 O **Learning** é uma plataforma desenvolvida para estudantes, a intenção do projeto é que seus usuários compartilhem conhecimentos e dúvidas sobre assuntos acadêmicos. 
